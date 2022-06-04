@@ -1,4 +1,3 @@
-const Discord = require('discord.js')
 const { Client, Collection } = require('discord.js')
 
 require('dotenv').config()
@@ -15,12 +14,15 @@ const client = new Client({
   ]
 })
 
-client.cooldowns = new Collection();
-client.commands = new Collection();
-client.aliases = new Collection();
+client.cooldowns = new Collection()
+client.commands = new Collection()
+client.aliases = new Collection()
+client.configs = require('./configs/bot.json')
 
-['eventsHandler', 'commandsHandler'].forEach(handler => {
-  require(`./handlers/${handler}`)(client, Discord)
+handlers = ['eventsHandler', 'commandsHandler']
+
+handlers.forEach(handler => {
+  require(`./handlers/${handler}`)(client)
 })
 
 client.login(process.env.TOKEN)
