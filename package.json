@@ -1,0 +1,17 @@
+{
+  "name": "minecraft-discordbot",
+  "version": "1.0.0",
+  "description": "Bot discord to query the status of the minecraft server that is configured.",
+  "main": "./src/bot.js",
+  "repository": "https://github.com/V1n1c1uz/minecraft-discordbot.git",
+  "author": "V1n1c1uz",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
