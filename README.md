@@ -42,7 +42,7 @@
 - Por fim se tudo der certo no terminal será enviado a seguinte mensagem: **Bot iniciado com sucesso**
 
 
-# **⚙️ INICIAR O BOT** <img src='https://camo.githubusercontent.com/dcd659b663d435f59bf584fbb29afa630abbb82506ce99982a7a0a0255fe0ea7/68747470733a2f2f63646e6a732e636c6f7564666c6172652e636f6d2f616a61782f6c6962732f666c61672d69636f6e2d6373732f332e332e302f666c6167732f3478332f75732e737667' height="18em"/> #
+# **⚙️START THE BOT** <img src='https://camo.githubusercontent.com/dcd659b663d435f59bf584fbb29afa630abbb82506ce99982a7a0a0255fe0ea7/68747470733a2f2f63646e6a732e636c6f7564666c6172652e636f6d2f616a61782f6c6962732f666c61672d69636f6e2d6373732f332e332e302f666c6167732f3478332f75732e737667' height="18em"/> #
 1st Installing the dependencies
    - run the command ```yarn install``` or just ```yarn```
 
