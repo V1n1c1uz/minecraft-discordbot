@@ -1,7 +1,8 @@
 # **Hello DiscordBot 🤖** #
 
 <img src='https://raw.githubusercontent.com/pierrelapalu/icones-bandeiras-br-uf/master/dist/rounded/png-200/01-brasil-rounded.png' height="14em"/> Neste simples repositório crio um Bot Discord com Javascript para seus players ver o status do seu servidor mine no Discord.
-<br>
+
+
 <img src='https://camo.githubusercontent.com/dcd659b663d435f59bf584fbb29afa630abbb82506ce99982a7a0a0255fe0ea7/68747470733a2f2f63646e6a732e636c6f7564666c6172652e636f6d2f616a61782f6c6962732f666c61672d69636f6e2d6373732f332e332e302f666c6167732f3478332f75732e737667' height="14em"> In this simple repository I create a Discord Bot with Javascript for your players to see the status of your mine server on Discord.
 
 # **📂ESTRUTURA DO PROJETO** | <img src='https://raw.githubusercontent.com/pierrelapalu/icones-bandeiras-br-uf/master/dist/rounded/png-200/01-brasil-rounded.png' height="18em"/> #
